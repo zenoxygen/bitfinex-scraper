@@ -1,0 +1,4 @@
+influxdb>=5.2
+requests>=2.19.1
+websockets>=6.0
+pendulum>=2.0.3
